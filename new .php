@@ -20,11 +20,7 @@ for($i=0;$i<10;$i++)
 }
 ?>
 
-<!--homework-->
-
-<!DOCTYPE html>
-<html lang="en">
-<body>
+//homework//
 
 <?php  
 
@@ -41,8 +37,6 @@ echo '<br>';
 } 
 
 ?> 
-</body>
-</html>
 
 
 
